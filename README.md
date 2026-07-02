@@ -180,6 +180,21 @@ class Arya:
 
 ---
 
+## 🧠 LeetCode Grind
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-arya123224-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arya123224)
+[![Solutions Repo](https://img.shields.io/badge/Solutions-Auto--Synced-3fb950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arya123224/leetcode-solutions)
+
+<img src="https://leetcard.jacoblin.cool/arya123224?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+
+</div>
+
+> 🔄 Every accepted submission is **automatically pushed** to [`leetcode-solutions`](https://github.com/arya123224/leetcode-solutions) via LeetHub extension.
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -202,3 +217,4 @@ class Arya:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3c,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
+
