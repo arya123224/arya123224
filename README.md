@@ -15,13 +15,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/arya123224?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/arya123224?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/arya123224?style=for-the-badge&color=3fb950&labelColor=0d1117&logo=github&label=STARS)](https://github.com/arya123224)
 
-<!-- Achievement Badges -->
 <br/>
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20Lover-3fb950?style=flat-square&logo=opensourceinitiative&logoColor=white)
-![KIIT University](https://img.shields.io/badge/KIIT%20University-B.Tech%20CSE-0066CC?style=flat-square&logo=academia&logoColor=white)
+![KIIT University](https://img.shields.io/badge/KIIT%20University-B.Tech%20CSE%202026-0066CC?style=flat-square&logo=academia&logoColor=white)
 ![Location](https://img.shields.io/badge/India-🇮🇳%20Patna%2C%20Bihar-FF9933?style=flat-square)
-![Available](https://img.shields.io/badge/Status-Open%20to%20Work-3fb950?style=flat-square&logo=circle&logoColor=white)
+![Available](https://img.shields.io/badge/Status-Open%20to%20Work%20🟢-3fb950?style=flat-square)
 
 </div>
 
@@ -165,7 +164,7 @@ class HarshKumar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arya123224&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&ring_color=58a6ff&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arya123224&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&ring_color=58a6ff&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" alt="GitHub Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya123224&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="180" alt="Top Languages"/>
 
@@ -177,18 +176,10 @@ class HarshKumar:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arya123224&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya123224&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya123224&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&hide_border=true&area=true&area_color=58a6ff" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -199,25 +190,25 @@ class HarshKumar:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arya123224/arya123224/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arya123224/arya123224/output/github-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arya123224/arya123224/output/github-snake-dark.svg"/>
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/arya123224/arya123224/output/github-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
 ---
 
-## 🧠 LeetCode Grind
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-arya__industries-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arya_industries)
-[![Solutions](https://img.shields.io/badge/Solutions-Auto--Synced%20✅-3fb950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arya123224/leetcode-solutions)
-[![LeetHub](https://img.shields.io/badge/LeetHub-Connected-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arya123224/leetcode-solutions)
-
-<img src="https://leetcard.jacoblin.cool/arya_industries?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats — arya_industries"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=arya123224&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 </div>
 
-> 🔄 Every accepted submission is **automatically pushed** to [`leetcode-solutions`](https://github.com/arya123224/leetcode-solutions) via LeetHub extension — organized by Easy / Medium / Hard.
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
 
 ---
 
@@ -232,7 +223,6 @@ class HarshKumar:
 
 <br/>
 
-<!-- Achievement Unlock Badges -->
 ![LeetCode 50+](https://img.shields.io/badge/LeetCode-50%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 ![Daily Commit](https://img.shields.io/badge/GitHub-Daily%20Commits-3fb950?style=flat-square&logo=github&logoColor=white)
 ![AI Builder](https://img.shields.io/badge/AI%20Builder-Lily%20%26%20Jarvis-a855f7?style=flat-square&logo=openai&logoColor=white)
@@ -244,6 +234,29 @@ class HarshKumar:
 ![Remote](https://img.shields.io/badge/Work-Remote%20Worldwide-f78166?style=flat-square)
 ![Freelancer](https://img.shields.io/badge/Freelance-Available-fbbf24?style=flat-square)
 
+</div>
+
+---
+
+## 🧠 LeetCode Grind
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-arya__industries-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arya_industries)
+[![Solutions](https://img.shields.io/badge/Solutions-Auto--Synced%20✅-3fb950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arya123224/leetcode-solutions)
+
+<img src="https://leetcard.jacoblin.cool/arya_industries?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
+
+</div>
+
+> 🔄 Every accepted submission auto-pushed to [`leetcode-solutions`](https://github.com/arya123224/leetcode-solutions) via LeetHub · organized by Easy / Medium / Hard
+
+---
+
+## 📅 Coding Activity (WakaTime)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arya123224&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 ---
@@ -263,10 +276,15 @@ class HarshKumar:
 
 <div align="center">
 
+<!-- Visitor count with flag -->
+<img src="https://profile-counter.glitch.me/arya123224/count.svg" alt="Visitor Count"/>
+
+<br/><br/>
+
 > *"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
 
 <br/>
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3c,100:0d1117&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3c,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=58a6ff&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
