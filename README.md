@@ -256,7 +256,7 @@ class HarshKumar:
 ## 📅 Coding Activity (WakaTime)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kharsh24485&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&v=2" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arya123224&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&v=2" alt="WakaTime Stats"/>
 </div>
 
 ---
