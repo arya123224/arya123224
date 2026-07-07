@@ -199,7 +199,7 @@ class HarshKumar:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arya123224&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arya123224&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -256,7 +256,7 @@ class HarshKumar:
 ## 📅 Coding Activity (WakaTime)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arya123224&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kharsh24485&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&v=2" alt="WakaTime Stats"/>
 </div>
 
 ---
