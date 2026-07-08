@@ -196,11 +196,27 @@ class HarshKumar:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats & Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arya123224&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4" alt="trophies"/>
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arya123224&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&count_private=true)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arya123224&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8)
+
+</td>
+</tr>
+</table>
+
+<!-- Trophy via alternative CDN -->
+<img src="https://github-profile-trophy.vercel.app/?username=arya123224&theme=onedark&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -259,9 +275,17 @@ class HarshKumar:
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/github/arya123224/arya123224.svg)](https://wakatime.com/@arya123224)
+[![WakaTime](https://wakatime.com/badge/user/018bfb8e-7e1f-41a7-a41c-9c6d6e4c1c1c.svg)](https://wakatime.com/@arya123224)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=arya123224&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&range=last_7_days" height="200" alt="WakaTime Stats"/>
+<!--START_SECTION:waka-->
+```text
+Python      32 mins  ████████████░░░░░░   69%
+Markdown     9 mins  ███░░░░░░░░░░░░░░░   20%
+Other        4 mins  █░░░░░░░░░░░░░░░░░   11%
+```
+<!--END_SECTION:waka-->
+
+> 📊 Stats auto-update via WakaTime · Tracked in **Antigravity IDE** · Project: ARYA INDUSTRIES
 
 </div>
 
@@ -283,7 +307,8 @@ class HarshKumar:
 <div align="center">
 
 <!-- Visitor count with flag -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farya123224&count_bg=%2358a6ff&title_bg=%230d1117&icon=github.svg&icon_color=%23ffffff&title=Visitors&edge_flat=true" alt="Visitor Count"/>
+<img src="https://komarev.com/ghpvc/?username=arya123224&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/arya123224?style=for-the-badge&color=3fb950&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers"/>
 
 <br/>
 
