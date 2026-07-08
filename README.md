@@ -199,7 +199,9 @@ class HarshKumar:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arya123224&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=arya123224&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4" alt="trophies"/>
+
 </div>
 
 ---
@@ -256,7 +258,11 @@ class HarshKumar:
 ## 📅 Coding Activity (WakaTime)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arya123224&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&v=2" alt="WakaTime Stats"/>
+
+[![wakatime](https://wakatime.com/badge/github/arya123224/arya123224.svg)](https://wakatime.com/@arya123224)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=arya123224&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&range=last_7_days" height="200" alt="WakaTime Stats"/>
+
 </div>
 
 ---
@@ -277,7 +283,12 @@ class HarshKumar:
 <div align="center">
 
 <!-- Visitor count with flag -->
-<img src="https://profile-counter.glitch.me/arya123224/count.svg" alt="Visitor Count"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farya123224&count_bg=%2358a6ff&title_bg=%230d1117&icon=github.svg&icon_color=%23ffffff&title=Visitors&edge_flat=true" alt="Visitor Count"/>
+
+<br/>
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20in%20India-FF9933?style=flat-square)
+![Python](https://img.shields.io/badge/Powered%20by-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <br/><br/>
 
